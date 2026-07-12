@@ -1,4 +1,4 @@
-# Hey, I'm Gus 👋
+# Hey, I'm SAS 👋
 
 **Building the infrastructure for autonomous commerce.** I architect and ship agent-driven platforms that connect marketplaces, affiliates, and AI — from Cloudflare Workers to monolithic Go backends.
 
