@@ -2,6 +2,8 @@
 
 📍 Kuala Lumpur, Malaysia · 🚀 Founder @ Blytz Ventures · 🤖 ~~Human~~ Vibe coder
 
+Building **Blytz** and exploring **Marketing Engineering** — how autonomous AI agents can understand business context, operate marketing tools safely, run experiments, and learn from outcomes.
+
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&labelColor=000)](https://cloudflare.com)
 [![AI](https://img.shields.io/badge/AI%20Agents-8B5CF6)](https://www.anthropic.com)
 [![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
@@ -9,9 +11,19 @@
 
 I don't write code. I **vibe** it. AI agents do the heavy lifting — I'm the guy who says "make it cooler" and reviews the diff like I know what's going on.
 
-**Things I love:** Agentic AI · MCP servers · Cloudflare Workers · shipping to the edge at 2am
+**Current obsession:** Marketing Engineering · AI agents · MCP · Meta Ads · Cloudflare Workers
 
 > If it can run on a Cloudflare Worker, it WILL run on a Cloudflare Worker.
+
+---
+
+## 🎯 Current Focus
+
+- Building governed AI-agent access to Meta Ads
+- Developing reusable marketing skills for autonomous agents
+- Exploring Marketing Engineering as a discipline
+- Designing agent workflows that learn from campaign outcomes
+- Building Blytz as the execution layer for AI-driven marketing
 
 ---
 
@@ -28,7 +40,7 @@ I don't write code. I **vibe** it. AI agents do the heavy lifting — I'm the gu
 - **[Shopee MCP Gateway](https://github.com/gmsas95/shopee-mcp-gateway)** — let your agents shop on Shopee. Dangerous, I know.
 - **[opencode-config](https://github.com/gmsas95/opencode-config)** — my AI dev environment. 12 subagents, 30+ skills. More agents than friends.
 - **[uptender](https://github.com/gmsas95/uptender)** — Malaysian gov tenders, served fresh from Workers + D1
-- **Blytz** — commerce stuff. Marketplace, affiliate, flight booking. All on Cloudflare because of course.
+- **Blytz** — governed marketing infrastructure for AI agents
 
 ---
 
@@ -38,16 +50,6 @@ I don't write code. I **vibe** it. AI agents do the heavy lifting — I'm the gu
 - Ship in **hours, not weeks** — quality is someone else's problem (jk, it's fine)
 - **MCP everything** — you get an MCP server, you get an MCP server
 - Edge over everything — why have one server when you can have 300?
-
----
-
-## 🎯 Current Focus
-
-- Building governed AI-agent access to Meta Ads
-- Developing reusable marketing skills for autonomous agents
-- Exploring Marketing Engineering as a discipline
-- Designing agent workflows that learn from campaign outcomes
-- Building Blytz as the execution layer for AI-driven marketing
 
 ---
 
