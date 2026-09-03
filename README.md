@@ -43,9 +43,11 @@ I don't write code. I **vibe** it. AI agents do the heavy lifting — I'm the gu
 
 ## 🎯 Current Focus
 
-- Teaching my agents to do my job so I can nap
-- Building MCP servers for things that don't need them
-- Pushing more stuff to the edge (there's still room, probably)
+- Building governed AI-agent access to Meta Ads
+- Developing reusable marketing skills for autonomous agents
+- Exploring Marketing Engineering as a discipline
+- Designing agent workflows that learn from campaign outcomes
+- Building Blytz as the execution layer for AI-driven marketing
 
 ---
 
